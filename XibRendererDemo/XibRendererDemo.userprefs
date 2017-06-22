@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3B971BDF-7B36-4BA3-BAE9-D009AEF1639C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/CollectionViewController.xib">
+    <Files>
+      <File FileName="iOS/CollectionsFiles/TextCollectionViewCell.cs" Line="33" Column="4" />
+      <File FileName="iOS/CollectionViewController.cs" Line="12" Column="2" />
+      <File FileName="iOS/CollectionViewController.designer.cs" Line="11" Column="1" />
+      <File FileName="iOS/CollectionViewController.xib" />
+      <File FileName="iOS/CollectionsFiles/ImageCollectionSource.cs" Line="65" Column="13" />
+      <File FileName="iOS/CollectionsFiles/ImageCollectionDelegate.cs" Line="7" Column="26" />
+      <File FileName="iOS/CollectionsFiles/ImageCollectionView.cs" Line="33" Column="19" />
+      <File FileName="iOS/CollViewController.cs" Line="14" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.XibRendererDemo.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/divikiranravela/Documents/XibRendererDemo/iOS/CollectionsFiles/ImageCollectionSource.cs" relfile="iOS/CollectionsFiles/ImageCollectionSource.cs" line="76" column="1" />
+      <Breakpoint file="/Users/divikiranravela/Documents/XibRendererDemo/iOS/CollectionsFiles/ImageCollectionSource.cs" relfile="iOS/CollectionsFiles/ImageCollectionSource.cs" line="71" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XibRendererDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
